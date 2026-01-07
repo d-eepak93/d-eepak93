@@ -1,4 +1,4 @@
-<h1 align="center">Hi Debuggers 👋, I'm Anmol R. Srivastava</h1> 
+<h1 align="center">Hi Debuggers 👋, I'm Deepak Kuma Sharma</h1> 
 <p align="center"><b>Programmer | Generative AI Pioneer | Cloud Navigator & Data Wrangler | AI/ML Model Trainer | Agile Methodology Developer | Engineer  </p>
 <img src="biogif.gif">
 
