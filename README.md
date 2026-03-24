@@ -11,7 +11,7 @@
   <table style="border-collapse: collapse; border: none;" border="none">
     <tr>
       <td width="30%">
-        <img src="WhatsApp Image 2025-02-24 at 11.31.53_b2bb3abe.jpg" width="250px" height="250px">
+        <img src="https://github.com/d-eepak93/d-eepak93/blob/main/deepak.jpg" width="250px" height="250px">
         <br><br>
         <a href="https://drive.google.com/file/d/1f7wRWVNXfVFJBXWbi9gBqRtwCikqmR5t/view?usp=drive_link">
         <strong><font size="4"> Preview & Download ➡️ Resume</font></strong>
