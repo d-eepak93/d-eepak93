@@ -24,7 +24,7 @@
       </td>
       <td width="70%">
         <p>
-          I am <b>Anmol R Srivastava</b>, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in May 2025. With a passion for technology and innovation, I have developed expertise in Generative AI, Machine Learning, Data Analysis, and Cloud Computing.
+          I am <b>Deepak Kumar Sharma</b>, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in May 2025. With a passion for technology and innovation, I have developed expertise in Generative AI, Machine Learning, Data Analysis, and Cloud Computing.
         </p>
         <p>
           My academic and professional experiences include winning and participating in multiple hackathons, coding challenges, and ideathons, which have honed my problem-solving and collaborative skills while deepening my knowledge of agile methodologies. I have successfully executed projects such as a GenAI-powered Document Retrieval Chatbot, a Drowsiness Detection System using CNN, and a real-time collaboration tool.
@@ -56,13 +56,11 @@
 
 -  <a href="https://oonearssite.netlify.app/"><kbd> &nbsp;&nbsp; Play O0ne  &nbsp;&nbsp; </a></kbd>
 -  <a href="https://arssiteportfolio.netlify.app/"><kbd> &nbsp;&nbsp; Portfolio  &nbsp;&nbsp; </a></kbd>
-- <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
-- <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
+- <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a>
 - <a href="https://medium.com/@ars."><kbd> &nbsp;&nbsp; Blog & Articles  &nbsp;&nbsp; </a></kbd>
 -  <a href="https://arssiteportfolio.netlify.app/#hobbies"><kbd> &nbsp;&nbsp; Hobbies & Interest  &nbsp;&nbsp; </a></kbd>
 - <a href="https://arssiteportfolio.netlify.app/#services"><kbd> &nbsp;&nbsp; Services as Freelancer  &nbsp;&nbsp; </a></kbd>
-- <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
-- <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> 
+- <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; 
 - [![Hugging Face Deployment](https://img.shields.io/badge/Hugging%20Face-Deployment-blue)](https://huggingface.co/arssite)<br>
 
 
@@ -111,7 +109,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anmol-r-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-r-srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamdeepakksharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-r-srivastava" height="30" width="40" /></a>
 <a href="https://medium.com/@ars." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ars." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arssite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arsdesibawa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ars____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ars____" height="30" width="40" /></a>
